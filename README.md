@@ -12,10 +12,9 @@ LockBit ransomware is currently one of the most popular and active ransomware gr
 
 - Using the packer identifier utility Detect It Easy, we found that this particular LockBit 3.0 sample is a Win32 .exe file with multiple sections packed with an unknown packer. 
 
-![image](https://github.com/RanjitPatil/LockBit-Analysis/assets/43460691/149c4f3f-5786-4351-9b44-621c5786858f)
+![image](https://github.com/RanjitPatil/Lockbit/assets/43460691/1673c020-ecb3-48d2-b565-347964bcf98e)
 
-![image](https://github.com/RanjitPatil/LockBit-Analysis/assets/43460691/b4043afc-d1ec-42fc-ba25-f360e7bd91e3)
-
+![image](https://github.com/RanjitPatil/Lockbit/assets/43460691/1c974d94-5d05-4991-9653-adaa34f87ae1)
 
 - According to the malware bazaars comments, the malware uses below  command line argument for decryption.
 
